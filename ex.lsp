@@ -1,0 +1,1 @@
+(print(car(cdr(cdr(car '((a b c)(d e)(f)))))))
